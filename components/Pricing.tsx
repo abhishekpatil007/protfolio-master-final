@@ -102,7 +102,7 @@ const Pricing = () => {
       </h1>
 
       <p className="text-center text-white-100 mt-4 mb-10 max-w-3xl mx-auto">
-        Whether you're launching your personal brand, scaling your business, or building a full-blown web app — I've got you covered.
+        Whether you&apos;re launching your personal brand, scaling your business, or building a full-blown web app — I&apos;ve got you covered.
       </p>
 
       <div className="flex flex-col items-center justify-center w-full">
@@ -233,7 +233,7 @@ const Pricing = () => {
             <div className="mt-16 text-center max-w-2xl mx-auto">
               <p className="text-xl mb-4">💬 Need something custom?</p>
               <p className="text-white-100 mb-6">
-                Let's talk. I'll tailor a solution to your exact needs — just{" "}
+                Let&apos;s talk. I&apos;ll tailor a solution to your exact needs — just{" "}
                 <a href="#contact" className="text-purple hover:underline">
                   Contact Me
                 </a>{" "}
