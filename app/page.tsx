@@ -13,6 +13,7 @@ import RecentProjects from "@/components/RecentProjects";
 import { FloatingNav } from "@/components/ui/FloatingNavbar";
 import Blog from "@/components/Blog";
 import WhatsAppButton from "@/components/WhatsAppButton";
+import Pricing from "@/components/Pricing";
 
 const Home = () => {
   return (
@@ -35,11 +36,12 @@ const Home = () => {
         <FloatingNav navItems={navItems} />
         <Hero />
         <Grid />
-        <RecentProjects />
+        {/* <RecentProjects /> */}
+        <Experience />
+        <Pricing />
+        <Approach />
         <Blog />
         <Clients />
-        <Experience />
-        <Approach />
         <Footer />
         <WhatsAppButton />
       </div>
